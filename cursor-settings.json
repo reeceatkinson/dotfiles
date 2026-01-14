@@ -1,0 +1,30 @@
+{
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  "editor.fontSize": 13.5,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.activityBar.orientation": "vertical",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "symbols",
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Cursor Light",
+  "window.commandCenter": true,
+  "workbench.colorCustomizations": {
+    "[Cursor Light]": {
+      "contrastBorder": "#dedede"
+    },
+    "[Cursor Dark]": {
+      "contrastBorder": "#2e2e3a"
+    }
+  },
+  "window.autoDetectColorScheme": true,
+  "claudeCode.preferredLocation": "sidebar",
+}
